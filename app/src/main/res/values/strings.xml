@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Cocktail</string>
+    <string name="cocktail_image">Cocktail Image</string>
+    <string name="button_add_to_favorite">Button add to favorite</string>
+    <string name="see_video_for_preparing_cocktail_in_youtube">See video for preparing cocktail in YouTube</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="go_to_favorites">Go to favorites</string>
+</resources>
